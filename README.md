@@ -3,6 +3,7 @@
 A simple BMI Calculator app developed using flutter framework
 
 
+UI Desig: 
 [https://dribbble.com/shots/4585382-Simple-BMI-Calculator/](https://dribbble.com/shots/4585382-Simple-BMI-Calculator/)
 
 ![UI IMAGE](https://cdn.dribbble.com/users/1553101/screenshots/4585382/attachments/1036694/selector_page.png)
