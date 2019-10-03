@@ -1,4 +1,4 @@
-# bmi_calculator
+# BMI Calculator
 
 A simple BMI Calculator app developed using flutter framework
 
